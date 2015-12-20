@@ -82,7 +82,7 @@
             this.label2.Size = new System.Drawing.Size(41, 13);
             this.label2.TabIndex = 4;
             this.label2.Text = "Senha:";
-            // ?
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
