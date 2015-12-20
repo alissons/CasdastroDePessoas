@@ -83,7 +83,7 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Senha:";
             //   
-            // label1
+            // label1 
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(327, 238);
